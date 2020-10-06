@@ -1,0 +1,6 @@
+['../models/model-r100-ii/model', '0']
+loading ../models/model-r100-ii/model 0
+<Symbol fc1>
+
+input_layer
+input_layer.0

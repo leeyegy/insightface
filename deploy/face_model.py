@@ -27,6 +27,7 @@ def do_flip(data):
 
 def get_model(ctx, image_size, model_str, layer):
   _vec = model_str.split(',')
+  print(_vec)
   assert len(_vec)==2
   prefix = _vec[0]
   epoch = int(_vec[1])
