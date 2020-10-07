@@ -39,6 +39,7 @@ img = cv2.imread('zmy.jpg')
 img = model.get_input(img)
 f2 = model.get_feature(img)
 f2pytorch = pytorch_model(torch.unsqueeze(torch.from_numpy(img),0))
+torch.save(pytorch_model,"../models/arcface-r100.pth")
 
 dist = np.sum(np.square(f1-f2))
 print("mxnet下两张人脸的二范数距离：")
