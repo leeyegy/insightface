@@ -1,0 +1,14 @@
+['../models/model-r100-ii/model', '0']
+loading ../models/model-r100-ii/model 0
+['../models/model-r100-ii/model', '0']
+loading ../models/model-r100-ii/model 0
+linear recovery!
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/09.jpg 的余弦距离为:0.8866305947303772
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/03.jpg 的余弦距离为:1.0468002557754517
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/08.jpg 的余弦距离为:0.9880294799804688
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/05.jpg 的余弦距离为:1.0541222095489502
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/06.jpg 的余弦距离为:1.0464979410171509
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/02.jpg 的余弦距离为:0.9796047210693359
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/07.jpg 的余弦距离为:0.9186378717422485
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/01.jpg 的余弦距离为:1.0382306575775146
+图片data/Baseline-10-9/jiang/01.png与图片:data/Baseline-10-9/wu/04.jpg 的余弦距离为:1.081009030342102
